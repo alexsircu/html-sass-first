@@ -1,5 +1,15 @@
 $siteColor: #00DAD6;
+$paragraphColor: #2EA043;
+$specialButtonColor: #F27CC2;
 
 h1 {
   background-color: $siteColor;
+}
+
+p {
+  background-color: $paragraphColor;
+}
+
+.special-button {
+  background-color: $specialButtonColor;
 }
